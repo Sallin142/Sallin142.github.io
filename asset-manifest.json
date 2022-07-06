@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "//sallin142.github.io/static/css/main.1e3ea917.css",
+    "main.js": "//sallin142.github.io/static/js/main.dc222e5f.js",
+    "static/js/787.01022c3a.chunk.js": "//sallin142.github.io/static/js/787.01022c3a.chunk.js",
+    "index.html": "//sallin142.github.io/index.html",
+    "main.1e3ea917.css.map": "//sallin142.github.io/static/css/main.1e3ea917.css.map",
+    "main.dc222e5f.js.map": "//sallin142.github.io/static/js/main.dc222e5f.js.map",
+    "787.01022c3a.chunk.js.map": "//sallin142.github.io/static/js/787.01022c3a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e3ea917.css",
+    "static/js/main.dc222e5f.js"
+  ]
+}
